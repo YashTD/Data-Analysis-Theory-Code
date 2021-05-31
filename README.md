@@ -14,4 +14,4 @@ The purpose of these notebooks is to break down chosen topics to near first prin
 
 ## Index
 
-1. Power Spectral Density
+1. [Power Spectral Density](Power%20Spectral%20Density.ipynb)
