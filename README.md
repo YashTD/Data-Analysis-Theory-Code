@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is a collection of notebooks with explanations of topics, including both theory and code, from several fields, including signal processing, machine learning and information theory, which may be considerd to fall under the overall banner of data analytics. These are topics that I have found interesting, important or particularly difficult to master. 
+This repository is a collection of notebooks with explanations of topics, including both theory and code, from several fields, including signal processing, machine learning and information theory, which may be considerd to fall under the overall banner of data analytics. These are topics that I have found interesting, important or particularly difficult to master.
 
 ## Origin
 
@@ -10,8 +10,9 @@ The first notebooks in this repository grew from my exploration of specific topi
 
 ## Purpose
 
-The purpose of these notebooks is to break down chosen topics to near first principles in a manner that I would have liked these topics explained to me when I first encountered them. My hope is that they will serve as a friendly and thorough introduction to these topics for anyone with a knowledge of high school mathematics seeking both theory and implementation.
+The purpose of these notebooks is to break down chosen topics to near first principles in a manner that I would have liked these topics explained to me when I first encountered them. My hope is that they will serve as a friendly and thorough introduction to these topics for anyone with a knowledge of high school mathematics seeking both theory and implementation and as a ready reference material for me when I revisit any of this topics.
 
 ## Index
 
-1. [Power Spectral Density](Power%20Spectral%20Density.ipynb)
+1. [Power Spectral Density - Theory](Power%20Spectral%20Density%20-%20Theory.ipynb)
+2. [Power Spectral Density - Code](Power%20Spectral%20Density%20-%20Code.ipynb)
