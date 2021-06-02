@@ -14,5 +14,26 @@ The purpose of these notebooks is to break down chosen topics to near first prin
 
 ## Index
 
+### Theory
 1. [Power Spectral Density - Theory](Power%20Spectral%20Density%20-%20Theory.ipynb)
-2. [Power Spectral Density - Code](Power%20Spectral%20Density%20-%20Code.ipynb)
+    1. [Energy and Power](Power%20Spectral%20Density%20-%20Theory.ipynb#Energy-and-Power)
+    2. [Autocorrelation](Power%20Spectral%20Density%20-%20Theory.ipynb#Autocorrelation)
+    3. [Einstein-Wiener-Khintchine Theorem](Power%20Spectral%20Density%20-%20Theory.ipynb#Einstein-Wiener-Khintchine-Theorem)
+    4. [Motivation](Power%20Spectral%20Density%20-%20Theory.ipynb#Motivation)
+    5. [Parseval's Relation and Periodogram](Power%20Spectral%20Density%20-%20Theory.ipynb#Parseval's-Relation-and-Periodogram)
+    6. [Further Reading](Power%20Spectral%20Density%20-%20Theory.ipynb#References)
+3. [Maximum Likelihood - Theory](Maximum%20Likelihood%20-%20Theory.ipynb)
+    1. [Shannon Entropy](Maximum%20Likelihood%20-%20Theory.ipynb#Shannon-Entropy)
+    2. [Measure of Information](Maximum%20Likelihood%20-%20Theory.ipynb#Entropy-as-a-Measure-of-Information)
+    3. [Cross-Entropy](Maximum%20Likelihood%20-%20Theory.ipynb#Cross-Entropy)
+    4. [Kullback-Leibler Divergence](Maximum%20Likelihood%20-%20Theory.ipynb#Kullback-Leibler-Divergence-(Relative-Entropy))
+    5. [Maximum Likelihood](Maximum%20Likelihood%20-%20Theory.ipynb#Maximum-Likelihood)
+    6. [Connection to Entropy](Maximum%20Likelihood%20-%20Theory.ipynb#Connecting-to-Entropy)
+    7. [Fisher Information](Maximum%20Likelihood%20-%20Theory.ipynb#Fisher-Information)
+    8. [Cramer-Rao Inequality](Maximum%20Likelihood%20-%20Theory.ipynb#Cramer-Rao-Inequality)
+    9. [Further Reading](Maximum%20Likelihood%20-%20Theory.ipynb#References)
+
+### Code
+
+1. [Power Spectral Density - Code](Power%20Spectral%20Density%20-%20Code.ipynb)
+4. [Maximum Likelihood - Code](Maximum%20Likelihood%20-%20Code.ipynb)
