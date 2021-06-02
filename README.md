@@ -1,5 +1,7 @@
 # Theory-Code (TC) Notebooks
 
+**Note**: *Github sometimes requires a little encouragement to render jupyter notebooks, presumably when there's high load on their servers. I am exploring hosting html versions of this material on a private server and request you to bear with me in the meantime and click the reload button if a notebook does not render.*
+
 ## Introduction
 
 This repository is a collection of notebooks with explanations of topics, including both theory and code, from several fields, including signal processing, machine learning and information theory, which may be considerd to fall under the overall banner of data analytics. These are topics that I have found interesting, important or particularly difficult to master.
