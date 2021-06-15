@@ -1,6 +1,6 @@
 # Theory-Code (TC) Notebooks
 
-**Note**: *Github sometimes requires a little encouragement to render jupyter notebooks, presumably when there's high load on their servers. I am exploring hosting html versions of this material on a private server and request you to bear with me in the meantime and click the reload button if a notebook does not render.*
+**Note**: *Github sometimes requires a little encouragement to render jupyter notebooks, presumably when there's high load on their servers. For a clean html version of each of these notebooks, I encourage you to visit [yashd.azurewebsites.net/TCBooks](http://yashd.azurewebsites.net/TCBooks).*
 
 ## Introduction
 
@@ -18,24 +18,25 @@ The purpose of these notebooks is to break down chosen topics to near first prin
 
 ### Theory
 1. [Power Spectral Density - Theory](Power%20Spectral%20Density%20-%20Theory.ipynb)
-    1. [Energy and Power](Power%20Spectral%20Density%20-%20Theory.ipynb#Energy-and-Power)
-    2. [Autocorrelation](Power%20Spectral%20Density%20-%20Theory.ipynb#Autocorrelation)
-    3. [Einstein-Wiener-Khintchine Theorem](Power%20Spectral%20Density%20-%20Theory.ipynb#Einstein-Wiener-Khintchine-Theorem)
-    4. [Motivation](Power%20Spectral%20Density%20-%20Theory.ipynb#Motivation)
-    5. [Parseval's Relation and Periodogram](Power%20Spectral%20Density%20-%20Theory.ipynb#Parseval's-Relation-and-Periodogram)
-    6. [Further Reading](Power%20Spectral%20Density%20-%20Theory.ipynb#References)
+    1. Energy and Power
+    2. Autocorrelation
+    3. Einstein-Wiener-Khintchine Theorem
+    4. Motivation
+    5. Parseval's Relation and Periodogram
+    6. Further Reading
 3. [Maximum Likelihood - Theory](Maximum%20Likelihood%20-%20Theory.ipynb)
-    1. [Shannon Entropy](Maximum%20Likelihood%20-%20Theory.ipynb#Shannon-Entropy)
-    2. [Measure of Information](Maximum%20Likelihood%20-%20Theory.ipynb#Entropy-as-a-Measure-of-Information)
-    3. [Cross-Entropy](Maximum%20Likelihood%20-%20Theory.ipynb#Cross-Entropy)
-    4. [Kullback-Leibler Divergence](Maximum%20Likelihood%20-%20Theory.ipynb#Kullback-Leibler-Divergence-(Relative-Entropy))
-    5. [Maximum Likelihood](Maximum%20Likelihood%20-%20Theory.ipynb#Maximum-Likelihood)
-    6. [Connection to Entropy](Maximum%20Likelihood%20-%20Theory.ipynb#Connecting-to-Entropy)
-    7. [Fisher Information](Maximum%20Likelihood%20-%20Theory.ipynb#Fisher-Information)
-    8. [Cramer-Rao Inequality](Maximum%20Likelihood%20-%20Theory.ipynb#Cramer-Rao-Inequality)
-    9. [Further Reading](Maximum%20Likelihood%20-%20Theory.ipynb#References)
+    1. Shannon Entropy
+    2. Measure of Information
+    3. Cross-Entropy
+    4. Kullback-Leibler Divergence
+    5. Maximum Likelihood
+    6. Connection to Entropy
+    7. Fisher Information
+    8. Cramer-Rao Inequality
+    9. Further Reading
 
 ### Code
 
-1. [Power Spectral Density - Code](Power%20Spectral%20Density%20-%20Code.ipynb)
-4. [Maximum Likelihood - Code](Maximum%20Likelihood%20-%20Code.ipynb)
+1. [Machine Learning - Topics (Classification and Probability Density Estimation)](Machine%20Learning%20I.ipynb) *(Stand-alone book)*
+2. [Power Spectral Density - Code](Power%20Spectral%20Density%20-%20Code.ipynb) *(Sections mirror the content in Theory)*
+4. [Maximum Likelihood - Code](Maximum%20Likelihood%20-%20Code.ipynb) *(Sections mirror the content in Theory)*
